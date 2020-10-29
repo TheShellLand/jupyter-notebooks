@@ -1,3 +1,6 @@
 pip
 torch
 torchvision
+matplotlib
+pandas
+numpy
